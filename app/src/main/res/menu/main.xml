@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+<item
+    android:id="@+id/opcion1"
+    android:title="Selecione la categoria"
+    />
+    <item
+    android:id="@+id/opcion2"
+    android:title="Pista"
+    android:icon="@drawable/ic_lightbulb_outline_white_36dp"
+    app:showAsAction="ifRoom"
+        />
+
+    <item
+        android:id="@+id/opcion3"
+        android:title="Salir"
+      />
+
+</menu>

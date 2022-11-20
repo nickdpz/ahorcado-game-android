@@ -1,0 +1,4 @@
+abeja,aguila,alacran,ardilla,armadillo,avestruz,avispa,ballena,bisonte,buey,bufalo,buho,burro,caballo,cabra,caiman,calamar,camaleon,camello,cangrejo,canguro,castor,cebra,cerdo,ciervo,cobra,cocodrilo,coyote,conejo,cuervo,delfin,elefante,flamenco,foca,gacela,gallina,gallo,ganso,gato,gorila,guacamayo,hamster,hiena,hipopotamo,hormiga,iguana,jabali,jaguar,jirafa,koala,lagarto,lechuza,leon,leopardo,lince,lobo,llama,mandril,mapache,mariquita,mariposa,mono,morsa,mosca,nutria,oso,oveja,pantera,pato,perro,pez,pollo,pavo,puma,rana,rata,reno,rinoceronte,sapo,saltamontes,salamandra,serpiente,tigre,toro,tortuga,venado,zorro,icotea,iguana,impala,jabiru,chimbila,jerbo,jaguar,labro,lagarto,langosta,langostino,lechuza,lemur,libelula,liebre,lombriz,loro,luciernaga,dromedario,atun,sardina,boa,cobra,babirusa,babosa,babuino,bacalao,cucaracha
+
+
+
